@@ -1,7 +1,7 @@
 # DIY-Gimbal-based-Sim-Racing-Handbrake
 This repository serves as guide to building a DIY USB handbrake for sim racing by repurposing an old flight joystick and programming a microcontroller for computer interface. 
 
-The device simulates a hydraulic handbrake with a variable analog axis, which can be mapped in racing games such as Assetto Corsa, BeamNG.drive, and iRacing. This is a great project if you have spare hardware and want a relatively inexpensive handbrake for starting out your sim racing journey.
+The device simulates a hydraulic handbrake with a variable analog axis, which can be mapped in racing games such as Assetto Corsa, BeamNG.drive, and iRacing. This is a great project if you have unused hardware and want a relatively inexpensive handbrake for starting out your sim racing journey.
 
 ## Hardware requirements
 - Any old flight joystick with a potentiometer-based gimbal (I used a Logitech Freedom 2.4)
