@@ -8,7 +8,7 @@ The device simulates a hydraulic handbrake with a variable analog axis, which ca
 - STM32F407G-DISC1 microcontroller board
 - Male mini-USB type-B to Male USB type-A cable
 - Male micro-USB type-B to Male USB type-A cable
-- Female-to-female breadboard jumper wires (Alternatively, copper wires can be used if you have access to a soldering kit)
+- Female-to-female breadboard jumper wires (Alternatively, standard copper wires can be used if you have access to a soldering kit)
 #### NOTE: Both cables need to have data transfer functionality.
 
 ## Software requirements
