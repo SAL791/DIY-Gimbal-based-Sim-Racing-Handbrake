@@ -6,10 +6,9 @@ The device simulates a hydraulic handbrake with a variable analog axis, which ca
 ## Hardware requirements
 - Any old flight joystick with a potentiometer-based gimbal (I used a Logitech Freedom 2.4)
 - STM32F407G-DISC1 microcontroller board
-- Female-to-female breadboard jumper wires [^1]
 - Male mini-USB type-B to Male USB type-A cable
 - Male micro-USB type-B to Male USB type-A cable
-[^1]: Alternatively, copper wires can be used if you have access to a soldering kit.
+- Female-to-female breadboard jumper wires (Alternatively, copper wires can be used if you have access to a soldering kit)
 #### NOTE: Both cables need to have data transfer functionality.
 
 ## Software requirements
