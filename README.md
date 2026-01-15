@@ -13,4 +13,4 @@ The device simulates a hydraulic handbrake with a variable analog axis, which ca
 
 ## Software requirements
 - STM32CubeIDE for programming the microcontroller
-#### NOTE: It is recommended to use version 1.19.0 of STM32CubeIDE or older, as STM32CubeMX and ST-MCU-FINDER-PC are detached from later versions. These components are required and will have to be installed individually if you decide to utilize a later version.
+#### NOTE: It is recommended to use version 1.19.0 of STM32CubeIDE or earlier, as STM32CubeMX and ST-MCU-FINDER-PC are detached from later versions. These components are required and will have to be installed individually if you decide to utilize a later version.
