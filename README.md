@@ -9,6 +9,7 @@ The device simulates a hydraulic handbrake with a variable analog axis, which ca
 - Male mini-USB type-B to Male USB type-A cable
 - Male micro-USB type-B to Male USB type-A cable
 - Female-to-female breadboard jumper wires (or standard copper wires can be used if you have access to a soldering kit)
+- Multimeter for measuring potentiometer output
 #### NOTE: Both cables need to have data transfer functionality.
 
 ## Software requirements
